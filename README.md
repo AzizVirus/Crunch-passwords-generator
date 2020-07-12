@@ -1,6 +1,15 @@
 # Crunch-passwords-generator
 This simple project is open source that means that you have the reason to use it for free, make some changes in it but don't remove my name (copyright)
 
+This Project Will Help Beginners very Much To Use Crunch
+
+What Is Crunch ?
+
+Crunch Is A Tool That Make Password lists To Use In Brute Force / Dictionnary Attacks 
+
+Don't Use For Illegal Use
+
+Report Any Bugs
 
 Please Be Respectual For The Rules Of The Author Of All These Tools (AzizVirus)
 
